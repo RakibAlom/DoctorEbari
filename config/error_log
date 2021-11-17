@@ -1,0 +1,40 @@
+[21-May-2021 06:48:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[23-May-2021 08:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[23-May-2021 08:43:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[13-Jun-2021 20:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[20-Aug-2021 12:27:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[20-Aug-2021 12:28:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[23-Aug-2021 06:07:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[23-Aug-2021 06:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[31-Aug-2021 02:45:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19
+[31-Aug-2021 02:45:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/doctxnyx/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doctxnyx/public_html/config/database.php on line 19

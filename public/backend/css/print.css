@@ -1,0 +1,19 @@
+@page{
+	size:A4;
+	margin: 0;
+}
+*{
+	background: white;
+}
+body{
+	background: white;
+}
+.row{
+	background: white;
+}
+.ibox-content{
+	border: none;
+}
+#print-none{
+	display: none;
+}
